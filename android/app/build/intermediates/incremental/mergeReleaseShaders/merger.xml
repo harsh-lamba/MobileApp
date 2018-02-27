@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/src/main/shaders"/></dataSet><dataSet config="release"><source path="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/src/release/shaders"/></dataSet></merger>

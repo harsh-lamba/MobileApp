@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hlamba/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_2738edb46715d4bf58c9bad75d8c335b7f608974.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hlamba/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_f1a283c5d78fe51af1514fe6eca0e78eccb19275.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_5e7459bff87c1fc1e2bf86b04c98771b245cd31a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hlamba/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_51641d69537853e4f854646b25587992966db6e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b7bd52e7b84674c67e424dde64f7b7990d7bc54">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.2_04952c88734719636f025ce88f431df3a0082f66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_77eaab761a552556ccda9240753107402675f37c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_aacc1b4d8a32043ee215b93480765475d1bac70e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_6f48787cc0750966113180b9f2e7e8871e60fb9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_9d8c7aef50353d49e594bee4d2a2b8c6c6047dc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_cd1a5750b824d88d6c1bf165e37a657eed8770e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_51d867941100a8124a8948e21a2fb2d79f0e3309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_799869b2e8dffb9b061c97679163b2b6a835012e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hlamba/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_8ba0b18cbff1ea83ef2d57a2004d7b743bcb0e80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_bcd40ad3898fbdaa61fa32f7ebfc25a60ed3f59a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hlamba/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_7c9081aad7d6a23c4751d60b2abf31f121c2704f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_e203c43c72f951debfacff1240b9f7503e0c131f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_df536e8e46aa6c966b8a4113209c4a4b29f63d91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_a013a11ebab206b7135cd57fcf91e23bd0ef8de5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hlamba/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_2e0ec646fc320b4f7ec0f1d51388df5c7c68b14b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hlamba/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_2cb4ba64ea86d7a39a994bde3ed23a9bc9fd20ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hlamba/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/harlamba/Sapient/Projects/Ayco/POC/React-native/alpha/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_f5af78a6c3df40182d71c34db8c260173798dfdc.jar" />
+    </item>
+
+</items>
